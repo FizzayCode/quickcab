@@ -6,3 +6,7 @@
 ]]--
 
 if CLIENT then return end
+
+util.AddNetworkString("")
+
+quicktaxi = {}
